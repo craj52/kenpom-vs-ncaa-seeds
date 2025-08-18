@@ -52,12 +52,20 @@ The analysis spans **2015–2025**, focusing specifically on games where the two
 ## Visuals
 Bar charts included in the notebook:  
 - Accuracy when KenPom vs. Seeds disagree  
-- Accuracy by confidence level (AdjEM gap)  
+- Accuracy by confidence level (AdjEM gap)
+
+## Skills
+- Python (pandas, matplotlib)
+- Data cleaning & preprocessing
+- Data visualization
+- Sports analytics
+- Git/GitHub for version control
 
 ---
 
-## 🏀 Key Takeaway
+## Key Takeaway
 KenPom provides a **modest overall edge**, and its advantage grows substantially in games where efficiency gaps are larger.  
 This suggests that advanced efficiency metrics can add real predictive value beyond traditional NCAA seeding.
+
 
 
